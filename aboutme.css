@@ -1,0 +1,55 @@
+h1 {
+  color: FireBrick;
+  font-size: 30px;
+  font-family: 'Geostar', cursive;
+}
+
+h2 {
+  color: LightCoral;
+  font-size: 25px;
+  font-family: 'Geostar', cursive;
+}
+
+.yes {
+  font-family: 'Quicksand', sans-serif;
+  color: DodgerBlue;
+  font-size: 25px;
+}
+
+.no {
+  color: FireBrick;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 25px;
+}
+
+
+body {
+  background-image: url("https://en.es-static.us/upl/2018/06/sun-pillar-6-25-2018-Peter-Gipson-sq.jpg");
+}
+
+.maybe {
+  color: DarkViolet;
+  font-family: 'Hind', sans-serif;
+  font-size: 25px;
+}
+
+
+.perhaps {
+  color: Azure;
+  font-family: 'Playfair Display', serif;
+  font-size: 25px;
+}
+
+
+.hi{
+font-family: 'Open Sans Condensed', sans-serif;
+font-size: 27px;
+color: MediumSeaGreen;
+}
+
+
+.bye{
+font-family: 'Titillium Web', sans-serif;
+font-size: 27px;
+color: Tomato;
+}
